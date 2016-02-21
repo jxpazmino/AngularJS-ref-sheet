@@ -5,6 +5,7 @@ AngularJS Reference Sheet
 
 Some Common Directives
 -----------------------
+```
 ng-cloak
 ng-click
 ng-model
@@ -13,7 +14,7 @@ ng-class
 ng-show
 ng-hide
 ng-if
-
+```
 ###Examples:
 ```
 <div ng-cloak> {{ someVariable }} </div>
