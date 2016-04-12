@@ -87,7 +87,7 @@ myApp.service('myServiceName', function() {
 Directives
 ------------
 ```
-/searchResult normalized, equivalent in html is search-result
+//searchResult normalized, equivalent in html is search-result
 myApp.directive("searchResult", function() {
 	return {
 		// single string template
